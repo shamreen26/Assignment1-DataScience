@@ -1,0 +1,15 @@
+#Questions 2:Write a program which prints “LETS UPGRADE”.
+(Please note that you have to print in ALL CAPS as given)
+
+print("LETS UPGRADE")
+
+ or
+
+string = "lets UPGRADE"
+print(string.upper())
+
+
+Output:
+
+LETS UPGRADE
+LETS UPGRADE
