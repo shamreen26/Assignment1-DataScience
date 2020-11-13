@@ -10,4 +10,7 @@ D. ROBWANI
 2.Write a program which prints “LETS UPGRADE”.
 (Please note that you have to print in ALL CAPS as given)
 
-3.
+3.Write a program that takes cost price and selling price as input and displays whether the transaction is a
+Profit or a Loss or Neither.
+
+4.
