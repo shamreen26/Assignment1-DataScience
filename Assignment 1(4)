@@ -1,4 +1,6 @@
-# Questions 4: Write a program that takes an amount in Euros as input. You need to find its equivalent in
+# Questions 4: 
+
+Write a program that takes an amount in Euros as input. You need to find its equivalent in
 Rupees and display it. Assume 1 Euro equals Rs. 80.
 
 # Your program should take only one number as input and display the output.
